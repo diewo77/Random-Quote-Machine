@@ -1,0 +1,19 @@
+{
+  "name": "random-quote-fcc",
+  "version": "1.0.0",
+  "description": "Random Quote Machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diewo77/Random-Quote-Machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diewo77/Random-Quote-Machine/issues"
+  },
+  "homepage": "https://github.com/diewo77/Random-Quote-Machine#readme"
+}
